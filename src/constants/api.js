@@ -1,0 +1,1 @@
+export const API_GATEWAY = 'http://www.api.com/api/';
